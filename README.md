@@ -31,3 +31,8 @@
 
 ##### Fullstack reactapp
 - easily add backend  (server-side code) to your nextjs/ react app using nodejs code. example : storing data to a database, adding authentication ...
+
+
+#### resources
+- https://nextjs.org/
+- https://nextjs.org/docs/getting-started
